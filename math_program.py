@@ -13,3 +13,11 @@ if is_prime:
     print("Prime")
 else:
     print("Not a Prime")
+
+
+
+num2 = 10
+if(num2 %2 == 0):
+    print("even")
+else:
+    print("odd")
