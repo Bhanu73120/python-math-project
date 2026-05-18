@@ -30,3 +30,14 @@ for i in range(1,num3+1):
     fact *= 1
 
 print("factorial:",fact)
+
+
+a=10
+b=20
+
+a=a+b
+b=a-b
+a=a-b
+
+print(a)
+print(b)
