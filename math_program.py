@@ -21,3 +21,12 @@ if(num2 %2 == 0):
     print("even")
 else:
     print("odd")
+
+
+num3 = 5
+fact = 1
+
+for i in range(1,num3+1):
+    fact *= 1
+
+print("factorial:",fact)
